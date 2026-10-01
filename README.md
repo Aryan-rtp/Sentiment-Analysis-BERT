@@ -125,8 +125,8 @@ Sentiment-Analysis-BERT/
 
 ## 👤 Author
 
-**Krishna**
-🔗 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Aryan Pandey**
+🔗 GitHub: [@Aryan-rtp](https://github.com/Aryan-rtp)
 
 ---
 
